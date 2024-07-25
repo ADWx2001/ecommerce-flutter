@@ -7,3 +7,5 @@ class AImages{
   static const String google = "assests/logos/google-icon.png";
   static const String facebook = "assests/logos/facebook-icon.png";
 }
+
+// adwx2001
