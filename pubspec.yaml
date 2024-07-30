@@ -36,12 +36,13 @@ dependencies:
   intl: ^0.19.0
   logger: ^2.0.1
   url_launcher: ^6.1.12
+  flutter_native_splash: ^2.4.1
 
   # icons
   iconsax: ^0.0.8
   cupertino_icons: ^1.0.6
 
-  #state management
+  #state management 
   get: ^4.6.5
   get_storage: ^2.1.1
 
